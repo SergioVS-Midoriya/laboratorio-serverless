@@ -1,0 +1,17 @@
+{
+    "nombre": "Sergio",
+    "apellido": "Bonilla",
+    "email": "sergiohelamancs@gmail.com",
+    "token": "070fbe96-6e24-42ed-a9c4-7022047416ad",
+    "fecha_utc": "2026-11-11T04:36:53.253757+00:00",
+    "sistema_operativo": "Linux",
+    "version_so": "6.18.58.1-microsoft-standard-WSL2",
+    "arquitectura": "x86_64",
+    "procesador": "",
+    "version_python": "3.12.16",
+    "hostname_contenedor": "0737d9e4cf11",
+    "plataforma": "OpenFaaS",
+    "funcion": "registro-serverless",
+    "estado": "Ejecucion exitosa",
+    "firma_sha256": "6b2c9b8256ba5a9ec573ceda1a5afbd879ed76df8486ab4755ccae91d4e6719c"
+}
